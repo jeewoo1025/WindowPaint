@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "세계그림판", "세계그림판\세계그림판.csproj", "{7ACBC23B-EFD4-43F3-AA79-629079B63625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "세계그림판Client", "세계그림판Client\세계그림판Client.csproj", "{F6BF255B-6AB0-4B67-8854-85BF8A5CAFCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{37B13E02-F6FC-47DE-85D3-6124466973D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ACBC23B-EFD4-43F3-AA79-629079B63625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ACBC23B-EFD4-43F3-AA79-629079B63625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ACBC23B-EFD4-43F3-AA79-629079B63625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ACBC23B-EFD4-43F3-AA79-629079B63625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6BF255B-6AB0-4B67-8854-85BF8A5CAFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6BF255B-6AB0-4B67-8854-85BF8A5CAFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6BF255B-6AB0-4B67-8854-85BF8A5CAFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6BF255B-6AB0-4B67-8854-85BF8A5CAFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37B13E02-F6FC-47DE-85D3-6124466973D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B13E02-F6FC-47DE-85D3-6124466973D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B13E02-F6FC-47DE-85D3-6124466973D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B13E02-F6FC-47DE-85D3-6124466973D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1623044A-1117-4D93-B30B-9282FB0792DC}
+	EndGlobalSection
+EndGlobal
